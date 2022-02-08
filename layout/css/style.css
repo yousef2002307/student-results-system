@@ -1,0 +1,101 @@
+.login_h1 {
+  margin-top: 30px;
+  text-align: center;
+  font-family: monospace;
+  margin-bottom: 180px;
+}
+body {
+  background-color: #f2f2f2;
+}
+.logins .content {
+  background-color: #fff;
+  padding: 39px 30px;
+}
+.stop {
+  pointer-events: none;
+}
+.logins .content h4 {
+  text-align: center;
+
+  font-size: 34px;
+  font-weight: bold;
+  text-transform: capitalize;
+  margin-bottom: 25px;
+}
+.logins .content p {
+  color: #787878;
+}
+.logins .content span {
+  color: #2a2323;
+  font-weight: bold;
+  opacity: 0.8;
+  text-transform: capitalize;
+}
+.logins .content a {
+  margin-left: 15px;
+}
+.logins form label {
+  height: 100%;
+  display: flex;
+  width: 100%;
+  align-items: center;
+  text-transform: capitalize;
+}
+.logins form .form-control {
+  display: block;
+  width: 100%;
+  padding: 3px 14px;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+.logins form .button {
+  margin: 25px 0;
+  text-align: right;
+}
+.logins footer {
+  color: #686868;
+  margin-top: 20px;
+  text-align: center;
+}
+*::selection {
+  background-color: #000;
+  color: #fff;
+}
+.flag {
+  margin-top: 70px;
+  background-color: #3498db;
+  padding: 22px 20px;
+  color: #fff;
+  border-radius: 7px;
+  cursor: pointer;
+}
+.flag i {
+  font-size: 49px;
+  font-weight: bold;
+}
+.flag span {
+  font-size: 24px;
+  font-weight: bold;
+}
+.flag p {
+  font-weight: bold;
+  font-size: 13px;
+}
+.createclassform {
+  width: 500px;
+  margin: auto;
+}
+.atable {
+  background-color: #6c6c6c;
+  color: #fff;
+  padding: 9px;
+  display: inline-block;
+  margin-bottom: 9px;
+  border-radius: 4px;
+}
